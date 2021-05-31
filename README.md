@@ -1,4 +1,4 @@
-# asd2021 #Analytical Service Development
+# asd2021 # AnalyticalServiceDevelopment
 Breast cancer prediction
 
 This is Final project for the course Analytical Service Development at Arcada University of Applied Sciences
