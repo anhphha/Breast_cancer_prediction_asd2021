@@ -11,4 +11,6 @@ The project is about:
 - To create and develop platform, which not only to deliver information to users but also to collect anonymous data for our machine learning models
 - To facilitate business plan for income generation
 
+Final project's demo via https://ilovefriend2007.wixsite.com/olkkikukat
+
 Final grade for the team project: 4.0/5.0
